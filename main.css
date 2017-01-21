@@ -34,3 +34,6 @@ body {
 	display: block;
 	text-transform: uppercase;
 }
+a.item {
+	color: green;
+}
